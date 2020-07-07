@@ -1,0 +1,35 @@
+Markers
+{
+	Marker
+	{
+		Name=1
+		Pos=650172
+		Type=0
+		Flags=0
+		Extra=0
+	}
+	Marker1
+	{
+		Name=2
+		Pos=1242044
+		Type=0
+		Flags=0
+		Extra=0
+	}
+	Marker2
+	{
+		Name=3
+		Pos=1680316
+		Type=0
+		Flags=0
+		Extra=0
+	}
+	Marker3
+	{
+		Name=4
+		Pos=2192316
+		Type=0
+		Flags=0
+		Extra=0
+	}
+}

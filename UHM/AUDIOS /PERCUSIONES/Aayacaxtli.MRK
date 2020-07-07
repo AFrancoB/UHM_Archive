@@ -1,0 +1,11 @@
+Markers
+{
+	Marker
+	{
+		Name=*
+		Pos=0
+		Type=0
+		Flags=0
+		Extra=0
+	}
+}
